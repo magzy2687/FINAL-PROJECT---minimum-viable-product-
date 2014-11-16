@@ -1,4 +1,6 @@
 AttackTrack
+by MAGGIE LI, MICHELLE CANTOS, AND MICHAEL LENIHAN
+
 Files to look at in Git Repository "https://github.com/magzy2687/FINAL-PROJECT---minimum-viable-product-/blob/master/CodingClass/Codes/readme2.txt"
 
 minviprod.html
